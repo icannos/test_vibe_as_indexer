@@ -1,5 +1,5 @@
 id,label,type_1,type_2
-habite,habite,character,planet
+habite,habite sur,character,planet
 visite,visite,character,planet
 rencontre,rencontre,character,character
 possede,possède,character,object
@@ -13,44 +13,55 @@ se_situe_sur,se situe sur,location,planet
 protege,protège,object,character
 menace,menace,character,character
 dessine_pour,dessine pour,character,character
-soigne,soigne,character,character
+dessine,dessine,character,object
+soigne,prend soin de,character,character
 se_rend_a,se rend à,character,location
-renvoie_vers,renvoie vers,character,character
+renvoie_vers,renvoie vers sa planète,character,character
 vend,vend,character,object
-ordonne_a,ordonne à,character,character
+ordonne_a,ordonne à / commande,character,character
 admire,admire,character,character
-apprivoise_rel,apprivoise,character,character
+apprivoise,apprivoise,character,character
 ecrit_par,est écrit par,work,character
-possede_sur,possède sur sa planète,character,object
 appartient_a,appartient à,object,character
 chasse,chasse,character,character
 defendu_par,est défendu par,character,object
 contient,contient,object,object
 mange,mange,character,plant
-trie,trie,character,group
+trie,trie par paquets,character,group
 enseigne_concept,enseigne le concept de,character,concept
-incarne,incarne,character,concept
 se_situe_dans,se situe dans,location,location
 est_sur,est sur,object,planet
-ressemble_a,ressemble à,plant,plant
-presente_a,présente à,character,location
-habite_lieu,habite,character,location
-mord,mord,character,character
-porte,porte,character,object
+ressemble_a,ressemble à (quand jeune),plant,plant
+presente_a,présente sa découverte à,character,location
+habite_lieu,habite dans,character,location
+mord,mord (éclair jaune),character,character
+porte,porte (vêtement),character,object
 utilise,utilise,character,object
-entretient,entretient,character,object
-part_via,part via,character,object
-recommande,recommande,character,planet
-refuse_enregistrer,refuse d'enregistrer,character,character
+entretient,entretient / ramone,character,object
+part_via,part grâce à,character,group
+recommande,recommande de visiter,character,planet
+refuse_enregistrer,refuse d'enregistrer (car éphémère),character,character
 derange,dérange,character,character
-nomme,nomme,character,character
-arrache,arrache,character,plant
+nomme,nomme (ambassadeur / ministre),character,character
+arrache,arrache (les pousses de),character,plant
 nee_de,née de,character,object
-manque,manque,object,object
+manque,manque à,object,object
 planifie_rdv,planifie un rendez-vous avec,character,character
-porte_a,porte dans ses bras,character,character
-trouve,trouve,character,location
+porte_dans_bras,porte dans ses bras,character,character
+trouve,trouve / découvre,character,location
 repare,répare,character,object
-provient_de,provient de,character,location
-a_vu,a vu passer,character,group
-danse_avec,danse avec,group,group
+provient_de,provient de / vient de,character,planet
+a_vu_passer,a vu passer,character,group
+danse_avec,danse avec (le jeudi),group,group
+detruit,détruit,plant,planet
+lit,a lu (enfant),character,work
+tue,tue (sauf deux ou trois),character,group
+tolere,tolère / supporte,character,group
+rappelle,rappelle (par sa couleur dorée),plant,character
+pleure_pour,pleure devant,character,group
+parle_a,parle à / s'adresse à,character,character
+boit_pour_oublier,boit pour oublier la honte de,character,character
+compte,compte / recompte,character,object
+enferme_a_clef,enferme à clef,character,object
+revendique,revendique la possession de,character,object
+crie_adieu,fait ses adieux à,character,character
