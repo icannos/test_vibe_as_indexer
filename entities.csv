@@ -1,0 +1,114 @@
+id,label,type
+petit_prince,Le Petit Prince,character
+narrateur,Le Narrateur (Aviateur),character
+rose,La Rose,character
+roi,Le Roi,character
+vaniteux,Le Vaniteux,character
+buveur,Le Buveur,character
+businessman,Le Businessman,character
+allumeur,L'Allumeur de Réverbères,character
+geographe,Le Géographe,character
+serpent,Le Serpent,character
+renard,Le Renard,character
+aiguilleur,L'Aiguilleur,character
+marchand_pilules,Le Marchand de Pilules,character
+astronome_turc,L'Astronome Turc,character
+leon_werth,Léon Werth,character
+saint_exupery,Antoine de Saint-Exupéry,character
+fleur_desert,La Fleur du Désert (trois pétales),character
+vieux_rat,Le Vieux Rat,character
+monsieur_cramoisi,Le Monsieur Cramoisi,character
+echo,L'Écho,character
+grandes_personnes,Les Grandes Personnes,group
+chasseurs,Les Chasseurs,group
+voyageurs,Les Voyageurs,group
+roses_jardin,Les 5000 Roses du Jardin,group
+explorateurs,Les Explorateurs,group
+asteroide_b612,Astéroïde B 612,planet
+terre,La Terre,planet
+asteroide_325,Astéroïde 325 (Planète du Roi),planet
+asteroide_326,Astéroïde 326 (Planète du Vaniteux),planet
+asteroide_327,Astéroïde 327 (Planète du Buveur),planet
+asteroide_328,Astéroïde 328 (Planète du Businessman),planet
+asteroide_329,Astéroïde 329 (Planète de l'Allumeur),planet
+asteroide_330,Astéroïde 330 (Planète du Géographe),planet
+desert_sahara,Le Désert du Sahara,location
+jardin_roses,Le Jardin de Roses,location
+haute_montagne,La Haute Montagne,location
+puits,Le Puits,location
+mur_pierre,Le Vieux Mur de Pierre,location
+france,La France,location
+afrique,L'Afrique,location
+foret_vierge,La Forêt Vierge,location
+congres_astronomie,Le Congrès International d'Astronomie,location
+cabine_aiguillage,La Cabine d'Aiguillage,location
+mouton,Le Mouton,object
+caisse,La Caisse,object
+avion,L'Avion,object
+moteur,Le Moteur,object
+reverbere,Le Réverbère,object
+globe_verre,Le Globe de Verre,object
+paravent,Le Paravent,object
+museliere,La Muselière,object
+arrosoir,L'Arrosoir,object
+pilules,Les Pilules contre la Soif,object
+revolver,Le Revolver,object
+cache_nez,Le Cache-nez d'Or,object
+etoiles,Les Étoiles,object
+chapeau_vaniteux,Le Chapeau du Vaniteux,object
+manteau_hermine,Le Manteau d'Hermine,object
+trone,Le Trône,object
+bouteilles,Les Bouteilles,object
+telescope,Le Télescope,object
+gros_livre,Le Gros Livre du Géographe,object
+seau,Le Seau du Puits,object
+poulie,La Poulie,object
+corde,La Corde,object
+dessin_1,Le Dessin Numéro 1 (Boa Fermé),object
+dessin_2,Le Dessin Numéro 2 (Boa Ouvert),object
+dessin_mouton,Le Dessin du Mouton dans la Caisse,object
+volcans,Les Trois Volcans,object
+epines,Les Quatre Épines,object
+trains,Les Trains Express,object
+poupee_chiffons,La Poupée de Chiffons,object
+baobabs,Les Baobabs,plant
+ble,Les Champs de Blé,plant
+rosiers,Les Rosiers,plant
+apprivoiser,Apprivoiser,concept
+essentiel_invisible,L'Essentiel est Invisible pour les Yeux,concept
+responsabilite,Tu Deviens Responsable de ce que Tu as Apprivoisé,concept
+solitude,La Solitude,concept
+ephemere,L'Éphémère,concept
+hanneton,Le Hanneton,character
+paresseux,Le Paresseux,character
+dictateur_turc,Le Dictateur Turc,character
+homme_locomotive,L'Homme de la Locomotive,character
+oiseaux_sauvages,Les Oiseaux Sauvages,group
+caravane,La Caravane,group
+enfants,Les Enfants,group
+camarades,Les Camarades du Narrateur,group
+poules,Les Poules,group
+chenilles,Les Chenilles,group
+papillons,Les Papillons,group
+filles_village,Les Filles du Village,group
+allumeurs_terre,Les 462511 Allumeurs de la Terre,group
+etats_unis,Les États-Unis,location
+chine,La Chine,location
+arizona,L'Arizona,location
+pole_nord,Le Pôle Nord,location
+pole_sud,Le Pôle Sud,location
+europe,L'Europe,location
+russie,La Russie,location
+amerique_du_sud,L'Amérique du Sud,location
+amerique_du_nord,L'Amérique du Nord,location
+courroie_cuir,La Courroie de Cuir (manquante),object
+boulon,Le Boulon,object
+marteau,Le Marteau,object
+calendrier_roi,Le Calendrier du Roi,object
+cigarette,La Cigarette du Businessman,object
+mouchoir,Le Mouchoir à Carreaux Rouges,object
+graine,La Graine de la Rose,object
+grelots,Les Grelots (500 millions),object
+chaise,La Chaise (pour les couchers de soleil),object
+rites,Les Rites,concept
+le_petit_prince_livre,Le Petit Prince (livre),work
